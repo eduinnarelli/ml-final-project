@@ -1,4 +1,4 @@
-Classificação de tweets tóxicos em PT-BR
+Classificação de Tweets Tóxicos em PT-BR
 ================================
 
 Por motivos de espaço, apenas o código e o relatório constam nesse repositório. As principais rotinas encontram-se nos notebooks dentro da pasta [src](src/). 
