@@ -1,7 +1,7 @@
 Classificação de Tweets Tóxicos em PT-BR
 ================================
 
-Por motivos de espaço, apenas o código e o relatório constam nesse repositório. As principais rotinas encontram-se nos notebooks dentro da pasta [src](src/). 
+Por motivos de espaço, os dados e os modelos não constam no repositório. As principais rotinas encontram-se nos notebooks dentro da pasta [src](src/). 
 
 O vídeo que apresenta brevemente o projeto e os resultados pode ser assistido [aqui](https://www.youtube.com/watch?v=tZmUeWxp9Ao).
 
