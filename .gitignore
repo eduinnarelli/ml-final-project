@@ -1,0 +1,6 @@
+__pycache__
+docs
+data
+pretrained-bert
+trained-bert
+nbsvm-model.joblib
